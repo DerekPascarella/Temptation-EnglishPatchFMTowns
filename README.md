@@ -81,7 +81,7 @@ Due to the game's use of an unidentified graphics format, two items remain untra
 </tr>
 <tr>
 <td><b>Contributors</b></td>
-<td><a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">Original managa</a> artist <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> and publisher <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a>.</td>
+<td><a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">Original managa</a> artist <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> and publisher <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a></td>
 </tr>
 <tr>
 <td><b>Rating</b></td>
