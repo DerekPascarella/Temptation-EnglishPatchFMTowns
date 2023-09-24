@@ -47,7 +47,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 Due to the game's use of an unidentified graphic format, two items remain untranslated as of version 0.9 of this patch.
 <br><br>
 <ul>
-<li><b>Title Screen Logo</b>
+<li><b>Title Screen Logo and Text</b>
  <br><br>
  <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/title.jpg?raw=true">
  <br><br>
