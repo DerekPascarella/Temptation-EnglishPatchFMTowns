@@ -35,11 +35,12 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
   <ul>
    <li>Derek Pascarella (ateam)</li>
   </ul>
-  <br>
+ <br>
  <li><b>Playtesting / Editing</b></li>
   <ul>
    <li>Jon Razee (OMPeaRetro)</li>
   </ul>
+ <br>
  <li><b>Translation</b></li>
   <ul>
    <li>Walnut</li>
