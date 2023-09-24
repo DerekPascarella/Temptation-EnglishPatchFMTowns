@@ -58,7 +58,7 @@ Due to the game's use of an unidentified graphics format, two items remain untra
  <br><br>
  <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/end.jpg?raw=true">
  <br><br>
- <i>May our love last forever.</i></li>
+ <i>May our love last forever...</i></li>
 </ul>
 
 <h2>About the Game</h2>
