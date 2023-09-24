@@ -37,18 +37,28 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 </ul>
 
 <h2>What's Changed</h2>
-<img align="right" width="300" height="225" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/screenshot.png"><ul>
+<ul>
 <li>Dialogue text has been translated into English.</li>
 <li>Save/load menu text has been translated into English.</li>
 <li>Action option text been translated into English.</li>
 </ul>
 
 <h2>To-Do</h2>
-Due to the game's use of compression when storing its graphics, two items remain untranslated as of version 0.9 of this patch.
+Due to the game's use of an unidentified graphics format, two items remain untranslated as of version 0.9 of this patch.
 <br><br>
 <ul>
-<li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_title_screen.png?raw=true"><br><br></li>
-<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_intro_text.png?raw=true"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise of this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
+<li><b>Title Screen Logo</b>
+ <br><br>
+ <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/title.jpg?raw=true">
+ <br><br>
+ <i>Temptation - © 1995 Hiroyuki Utatane / Akane Shinsha / T2 Co., Ltd.</i>
+ <br><br>
+</li>
+<li><b>End Screen Text</b>
+ <br><br>
+ <img width="300" height="188" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/end.jpg?raw=true">
+ <br><br>
+ <i>May our love last forever.</i></li>
 </ul>
 
 <h2>About the Game</h2>
@@ -68,6 +78,10 @@ Due to the game's use of compression when storing its graphics, two items remain
 <tr>
 <td><b>Publisher</b></td>
 <td>T2 Co., Ltd.</td>
+</tr>
+<tr>
+<td><b>Contributors</b></td>
+<td><a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> (artist) and <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a> (publisher).</td>
 </tr>
 <tr>
 <td><b>Rating</b></td>
