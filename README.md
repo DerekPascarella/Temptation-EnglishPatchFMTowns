@@ -121,7 +121,7 @@ As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from c
 <ul>
  <li><b>Keyboard:</b> Compatible</li>
  <li><b>Mouse:</b> Compatible</li>
- <li><b>Controller:</b> Compatible</li>
+ <li><b>Controller:</b> Incompatible</li>
  <br>
 </ul>
 Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
