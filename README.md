@@ -44,7 +44,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 </ul>
 
 <h2>To-Do</h2>
-Due to the game's use of an unidentified graphics format, two items remain untranslated as of version 0.9 of this patch.
+Due to the game's use of an unidentified graphic format, two items remain untranslated as of version 0.9 of this patch.
 <br><br>
 <ul>
 <li><b>Title Screen Logo</b>
