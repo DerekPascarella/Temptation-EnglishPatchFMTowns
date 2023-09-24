@@ -10,12 +10,13 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <h2>Table of Contents</h2>
 
 1. [Patching Instructions](#patching-instructions)
-2. [Release Changelog](#release-changelog)
-3. [What's Changed](#whats-changed)
-4. [To-Do](#to-do)
-5. [About the Game](#about-the-game)
-6. [How to Play](#how-to-play)
-7. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
+2. [Credits](#credits)
+3. [Release Changelog](#release-changelog)
+4. [What's Changed](#whats-changed)
+5. [To-Do](#to-do)
+6. [About the Game](#about-the-game)
+7. [How to Play](#how-to-play)
+8. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Yuuwaku (Japan).bin</tt> has an MD5 checksum of <tt>000B8A4E832D952FB29EA6B831ED8CD0</tt>.
@@ -27,6 +28,23 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
 <li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>xxxxxxxx</tt>.</li>
 </ol>
+
+<h2>Credits</h2>
+<ul>
+ <li><b>Hacking / Editing</b></li>
+  <ul>
+   <li>Derek Pascarella (ateam)</li>
+  </ul>
+  <br>
+ <li><b>Playtesting / Editing</b></li>
+  <ul>
+   <li>Jon Razee (OMPeaRetro)</li>
+  </ul>
+ <li><b>Translation</b></li>
+  <ul>
+   <li>Walnut</li>
+  </ul>
+</ul>
 
 <h2>Release Changelog</h2>
 <ul>
