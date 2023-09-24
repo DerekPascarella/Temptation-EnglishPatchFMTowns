@@ -1,7 +1,7 @@
 <h1>Temptation</h1>
 <img width="165" height="228" align="right" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/cover_front.jpg?raw=true">English translation patch for eroge fighting game "Temptation" on the FM Towns/FM Towns Marty, based on the <a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">original adult manga</a> by <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a>.
 <br><br>
-Temptation puts the player in the shoes of private eye Kyo Saeki, a former police detective who's left the force to go into business for himself. The detective is a big fan of video games, and loves spending time at the local arcade (called "Spot 31") practicing his skills in the latest fighting games. He's also got a weakness for life's vices, such as drinking, smoking, gambling, and of course, women.
+Players assume the role of private eye Kyo Saeki, a former police detective who's left the force to go into business for himself. The detective is a big fan of video games, and loves spending time at the local arcade (called "Spot 31") practicing his skills in the latest fighting games. He's also got a weakness for life's vices, such as drinking, smoking, gambling, and of course, women.
 <br><br>
 One day, a young woman visits his office requesting that he take on her case. The crime? A painting belonging to her late father has gone missing, likely stolen by her step-mother. The hero must solve his client's family mystery by gleaning clues through romantic encounters with women in town.
 <br><br>
@@ -116,4 +116,10 @@ Due to the game's use of an unidentified graphics format, two items remain untra
 </ul>
 
 <h2>A Note on Controller Compatibility</h2>
-text to go here
+As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
+<ul>
+ <li><b>Keyboard:</b> Compatible</li>
+ <li><b>Mouse:</b> Compatible</li>
+ <li><b>Controller:</b> Compatible</li>
+</ul>
+Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
