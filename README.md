@@ -1,5 +1,5 @@
 <h1>Temptation</h1>
-<img width="165" height="228" align="right" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/cover_front.jpg?raw=true">English translation patch for eroge fighting game "Temptation" on the FM Towns/FM Towns Marty, based on the <a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">original adult manga</a>a> by <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a>.
+<img width="165" height="228" align="right" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/cover_front.jpg?raw=true">English translation patch for eroge fighting game "Temptation" on the FM Towns/FM Towns Marty, based on the <a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">original adult manga</a> by <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a>.
 <br><br>
 Temptation puts the player in the shoes of private eye Kyo Saeki, a former police detective who's left the force to go into business for himself. The detective is a big fan of video games, and loves spending time at the local arcade (called "Spot 31") practicing his skills in the latest fighting games. He's also got a weakness for life's vices, such as drinking, smoking, gambling, and of course, women.
 <br><br>
