@@ -117,9 +117,11 @@ Due to the game's use of an unidentified graphics format, two items remain untra
 
 <h2>A Note on Controller Compatibility</h2>
 As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
+<br><br>
 <ul>
  <li><b>Keyboard:</b> Compatible</li>
  <li><b>Mouse:</b> Compatible</li>
  <li><b>Controller:</b> Compatible</li>
+ <br>
 </ul>
 Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
