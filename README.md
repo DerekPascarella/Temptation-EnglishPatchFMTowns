@@ -86,8 +86,19 @@ Due to the game's use of compression when storing its graphics, two items remain
 
 <h2>How to Play</h2>
 <ul>
- <li><b>ODE (Optical Drive Emulator)</b><br>The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Metal & Lace" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.<br><br>In order to save game progress, an MS-DOS-formatted floppy disk must be present.  For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), see pre-made disk images below.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).hfe">Blank Disk (MS-DOS Formatted).hfe</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.hfe">Metal & Lace - Completed Save.hfe</a><br><br></li>
- <li><b>Emulator</b><br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  In order to save game progress, an MS-DOS-formatted floppy disk must be present.  The following pre-made disk images have been tested and confirmed working with Tsugaru.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).d88">Blank Disk (MS-DOS Formatted).d88</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.d88">Metal & Lace - Completed Save.d88</a></li>
+ <li><b>ODE (Optical Drive Emulator)</b>
+  <br>
+  The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Temptation" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.
+  <br><br>
+  This game, like many on the FM Towns, requires a user disk to boot the game disc. Note that progress can also be saved to the same disk. For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), download disk image below.
+  <br><br>
+  ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).hfe">Temptation (User Disk).hfe</a>
+  <br><br>
+ </li>
+ <li><b>Emulator</b>
+  <br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  This game, like many on the FM Towns, requires a user disk to boot the game disc. Note that progress can also be saved to the same disk. The following disk image has been tested and confirmed working with Tsugaru.
+  <br><br>
+  ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).d88">Temptation (User Disk).d88</a>
 </ul>
 
 <h2>A Note on Controller Compatibility</h2>
