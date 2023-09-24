@@ -18,7 +18,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 7. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
 
 <h2>Patching Instructions</h2>
-<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Ningyou Tsukai (Japan).bin</tt> has an MD5 checksum of <tt>xxxx</tt>.
+<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Ningyou Tsukai (Japan).bin</tt> has an MD5 checksum of <tt>000B8A4E832D952FB29EA6B831ED8CD0</tt>.
 <br><br>
 <ol type="1">
 <li>Click the settings icon (appears as a gear) and enable "Backup original file" and "Checksum validation".</li>
