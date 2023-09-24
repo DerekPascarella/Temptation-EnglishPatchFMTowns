@@ -22,7 +22,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <br><br>
 <ol type="1">
 <li>Click the settings icon (appears as a gear) and enable "Backup original file" and "Checksum validation".</li>
-<li>Click the "Original file" browse icon and select the unmodified <tt>Ningyou Tsukai (Japan).bin</tt> file.</li>
+<li>Click the "Original file" browse icon and select the unmodified <tt>Yuuwaku (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
 <li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>xxxxxxxx</tt>.</li>
