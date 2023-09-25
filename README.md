@@ -144,13 +144,13 @@ Watch the launch trailer created by project team member Jon Razee of <a href="ht
 <h2>A Note on Controller Compatibility</h2>
 As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
 <br><br>
+Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
+<br><br>
 <ul>
  <li><b>Keyboard:</b> Compatible</li>
  <li><b>Mouse:</b> Compatible</li>
  <li><b>Controller:</b> Incompatible</li>
- <br>
 </ul>
-Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
 
 <h2>Walkthrough</h2>
 While it's suggested that players experience the game for the first time without any outside assistance, those wishing to replay the game and explore all possible scenarios can refer to the <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/misc/walkthrough.pdf">Quick Walkthrough Guide</a>.
