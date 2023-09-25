@@ -14,9 +14,10 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
 5. [To-Do](#to-do)
-6. [About the Game](#about-the-game)
-7. [How to Play](#how-to-play)
-8. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
+6. [Launch Trailer](#launch-trailer)
+7. [About the Game](#about-the-game)
+8. [How to Play](#how-to-play)
+9. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Yuuwaku (Japan).bin</tt> has an MD5 checksum of <tt>000B8A4E832D952FB29EA6B831ED8CD0</tt>.
@@ -79,6 +80,11 @@ Due to the game's use of an unidentified graphic format, two items remain untran
  <br><br>
  <i>May our love last forever...</i></li>
 </ul>
+
+<h2>Launch Trailer</h2>
+Watch the launch trailer created by project team member Jon Razee of <a href="https://ompearetro.com/">OMPeaRetro.com</a>.
+<br><br>
+<a href="https://xxxxxx"><img width="500" height="360" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/trailer.jpg?raw=true" border="0"></a>a>
 
 <h2>About the Game</h2>
 <table>
