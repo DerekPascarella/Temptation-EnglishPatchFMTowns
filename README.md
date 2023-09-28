@@ -59,9 +59,10 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>What's Changed</h2>
 <ul>
-<li>Dialogue text has been translated into English.</li>
-<li>Save/load menu text has been translated into English.</li>
-<li>Action option text been translated into English.</li>
+ <li>Dialogue text has been translated into English.</li>
+ <li>Save/load menu text has been translated into English.</li>
+ <li>Action option text been translated into English.</li>
+ <li>Several dialogue text bugs were fixed.</li>
 </ul>
 
 <h2>To-Do</h2>
