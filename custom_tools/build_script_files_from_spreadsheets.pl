@@ -256,6 +256,16 @@ for(my $i = 0; $i < scalar(@translated_spreadsheets); $i ++)
 		print "Fixed missing \"KYO\" speaker name label.\n";
 	}
 
+	# Quick fix to restore speaker name label in N_YASI_A.
+	if($translated_spreadsheets[$i] =~ /N_YASI_A/ &&
+	   $patched_file_hex =~ /0C284865792C2063616E207468657920736565206D653F292020202020/i)
+	{
+		$patched_file_hex =~ s/0C284865792C2063616E207468657920736565206D653F292020202020/0C4B594F5C6E284865792C2063616E207468657920736565206D653F29/gi;
+
+		# Status message.
+		print "Fixed missing \"KYO\" speaker name label.\n";
+	}
+
 	# Write patched data.
 	&write_bytes($new_script_output_folder . "/" . $output_file, $patched_file_hex);
 
