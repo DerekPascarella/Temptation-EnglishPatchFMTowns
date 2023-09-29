@@ -40,7 +40,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
  <br>
  <li><b>Playtesting / Editing</b></li>
   <ul>
-   <li>Jon Razee (OMPeaRetro)</li>
+   <li>Jon R. (OMPeaRetro)</li>
   </ul>
  <br>
  <li><b>Translation</b></li>
@@ -84,9 +84,9 @@ Due to the game's use of an unidentified graphic format, two items remain untran
 </ul>
 
 <h2>Launch Trailer</h2>
-Watch the launch trailer created by project team member Jon Razee of <a href="https://ompearetro.com/">OMPeaRetro.com</a>.
+Watch the launch trailer created by project team member Jon R. of <a href="https://ompearetro.com/">OMPeaRetro.com</a>.
 <br><br>
-<a href="https://xxxxxx"><img width="500" height="360" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/trailer.jpg?raw=true" border="0"></a>
+<a href="https://www.youtube.com/watch?v=ip9-w6a0qg4"><img width="500" height="360" src="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/images/trailer.jpg?raw=true" border="0"></a>
 
 <h2>About the Game</h2>
 <table>
