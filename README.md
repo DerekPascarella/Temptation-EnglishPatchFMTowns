@@ -17,7 +17,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 6. [Launch Trailer](#launch-trailer)
 7. [About the Game](#about-the-game)
 8. [How to Play](#how-to-play)
-9. [A Note on Controller Compatibility](#a-note-on-controller-compatibility)
+9. [A Note on Marty Controller Compatibility](#a-note-on-marty-controller-compatibility)
 10. [Walkthrough](#walkthrough)
 
 <h2>Patching Instructions</h2>
@@ -142,8 +142,8 @@ Watch the launch trailer created by project team member Jon R. of <a href="https
   ⯈ <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/raw/main/fdd_images/Temptation%20(User%20Disk).d88">Temptation (User Disk).d88</a>
 </ul>
 
-<h2>A Note on Controller Compatibility</h2>
-As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
+<h2>A Note on Marty Controller Compatibility</h2>
+As is not uncommon with the FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
 <br><br>
 Note that any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
 <br><br>
