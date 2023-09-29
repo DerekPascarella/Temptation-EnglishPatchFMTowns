@@ -28,7 +28,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Yuuwaku (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>xxxxxxxx</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>BE62706C42500918A9AA0C2B34725809</tt>.</li>
 </ol>
 
 <h2>Credits</h2>
