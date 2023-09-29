@@ -5,7 +5,7 @@ Players assume the role of private eye Kyo Saeki, a former police detective who'
 <br><br>
 One day, a young woman visits his office requesting that he take on her case. The crime? A painting belonging to her late father has gone missing, likely stolen by her step-mother. The hero must solve his client's family mystery by gleaning clues through romantic encounters with women in town.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/tag/0.9">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.9/Temptation.T-En.v0.9.xdelta">0.9</a>.
 
 <h2>Table of Contents</h2>
 
