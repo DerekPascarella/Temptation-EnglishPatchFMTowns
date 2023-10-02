@@ -51,7 +51,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 0.9 (2023-XX-XX)</li>
+ <li>Version 0.9 (2023-09-29)</li>
  <ul>
   <li>Initial release.</li>
  </ul>
