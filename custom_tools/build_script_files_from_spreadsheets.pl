@@ -136,6 +136,16 @@ for(my $i = 0; $i < scalar(@translated_spreadsheets); $i ++)
 		substr($patched_file_hex, $offset * 2, length($english_hex)) = $english_hex;
 	}
 
+	# Quick fix for line that starts with "¥200,000 is all I can spare right now."
+	if($translated_spreadsheets[$i] eq "N_OPEN_.BIN.xlsx" &&
+	   $patched_file_hex =~ /00095B2B24243230/i)
+	{
+		$patched_file_hex =~ s/00095B2B24243230/00095B2B818F3230/gi;
+
+		# Status message.
+		print "Fixed yen sign text.\n";
+	}
+
 	# Quick fix for "ARCADE" menu entry.
 	if($patched_file_hex =~ /B9DEB0D1BEDDC0B0/i)
 	{

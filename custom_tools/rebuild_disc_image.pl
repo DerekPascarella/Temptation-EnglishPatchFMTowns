@@ -11,7 +11,7 @@ use strict;
 
 # Define paths.
 my $disc_image_extracted_folder = "Z:\\fm_towns\\disc_images\\Yuuwaku\\disc_image_extracted_new\\";
-my $disc_image = "Z:\\fm_towns\\disc_images\\Yuuwaku\\disc_image_new\\Yuuwaku (Japan).bin";
+my $disc_image = "Z:\\fm_towns\\disc_images\\Yuuwaku\\disc_image_new\\Temptation (T-En v0.91).bin";
 
 # Store list of files to replace.
 my @file_list = ("N_BBAR_7.BIN",
