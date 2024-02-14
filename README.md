@@ -5,7 +5,7 @@ Players assume the role of private eye Kyo Saeki, a former police detective who'
 <br><br>
 One day, a young woman visits his office requesting that he take on her case. The crime? A painting belonging to her late father has gone missing, likely stolen by her step-mother. The hero must solve his client's family mystery by gleaning clues through romantic encounters with women in town.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.9/Temptation.T-En.v0.9.xdelta">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/releases/download/0.91/Temptation.T-En.v0.91.xdelta">0.91</a>.
 
 <h2>Table of Contents</h2>
 
@@ -21,7 +21,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 10. [Walkthrough](#walkthrough)
 
 <h2>Patching Instructions</h2>
-<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Yuuwaku (Japan).bin</tt> has an MD5 checksum of <tt>000B8A4E832D952FB29EA6B831ED8CD0</tt>.
+<img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/81742/">Redump version of the game</a> is used as the source disc image, where <tt>Yuuwaku (Japan).bin</tt> has an MD5 checksum of <tt>20D34726931FEF02365E79C66D739B72</tt>.
 <br><br>
 <ol type="1">
 <li>Click the settings icon (appears as a gear) and enable "Backup original file" and "Checksum validation".</li>
@@ -51,6 +51,10 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>Release Changelog</h2>
 <ul>
+ <li>Version 0.91 (2024-02-14)</li>
+ <ul>
+  <li>Fixed bug in correctly displaying yen currency symbol.</li>
+ </ul>
  <li>Version 0.9 (2023-09-29)</li>
  <ul>
   <li>Initial release.</li>
