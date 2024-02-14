@@ -53,7 +53,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <ul>
  <li>Version 0.91 (2024-02-14)</li>
  <ul>
-  <li>Fixed bug in correctly displaying yen currency symbol.</li>
+  <li>Fixed bug that incorrectly displayed yen currency symbol.</li>
  </ul>
  <li>Version 0.9 (2023-09-29)</li>
  <ul>
