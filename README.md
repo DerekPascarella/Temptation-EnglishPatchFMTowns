@@ -112,7 +112,7 @@ Watch the launch trailer created by project team member Jon R. of <a href="https
 </tr>
 <tr>
 <td><b>Contributors</b></td>
-<td><a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">Original managa</a> artist <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> and publisher <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a></td>
+<td><a href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=8738">Original manga</a> artist <a href="https://en.wikipedia.org/wiki/Hiroyuki_Utatane">Hiroyuki Utatane</a> and publisher <a href="https://en.wikipedia.org/wiki/Akane_Shinsha">Akana Shinsha</a></td>
 </tr>
 <tr>
 <td><b>Rating</b></td>
