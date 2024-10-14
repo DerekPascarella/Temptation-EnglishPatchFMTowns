@@ -147,19 +147,15 @@ Watch the launch trailer created by project team member Jon R. of <a href="https
 </ul>
 
 <h2>A Note on Controller Compatibility</h2>
-As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, the following devices were tested on both real hardware and emulator.
+As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from compatibility problems with certain input peripherals. During the course of developing this translation patch, numerous devices were tested on both real hardware and emulator.
 <br><br>
-Note that when playing on Marty, any controllers must be left unplugged in order for keyboard or mouse to function properly. Otherwise, players will experience ghost input that makes navigating menus extremely difficult.
+All OEM keyboards and mice tested were fully compatible with the game. Furthermore, both the <a href="https://classicpc.org/fmtowns%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%81%b8usb%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89%e3%82%92%e6%8e%a5%e7%b6%9a%e3%81%99%e3%82%8b%e5%a4%89%e6%8f%9b%e6%a9%9f/">USB keyboard</a> and <a href="https://classicpc.org/atari%e3%83%9e%e3%82%a6%e3%82%b9pc%e3%81%b8usb%e3%83%9e%e3%82%a6%e3%82%b9%e3%82%92%e6%8e%a5%e7%b6%9a%e3%81%99%e3%82%8b%e5%a4%89%e6%8f%9b%e6%a9%9f/">USB mouse</a> adapters are fully compatible.
 <br><br>
-On other FM Towns machines, the controller can remain plugged in. However, it will not be functional. If neither keyboard nor mouse is present, the controller will be functional, but ghost input will be experienced.
+All two-button controllers tested were compatible as well, except for the Marty "FMM-PAD301" (with trigger button), which sends ghost button presses to the game. Additionally, the six-button "FMT-PAD111" controller exhibits the same problem.
 <br><br>
-Ultimately, it's advised to use either the keyboard or mouse alone to play the game.
+Note that if a player wants to use either a mouse or keyboard, they must ensure that neither of these two incompatible controllers is plugged in at the same time. Otherwise, the same ghost input problem will present itself.
 <br><br>
-<ul>
- <li><b>Keyboard:</b> Compatible</li>
- <li><b>Mouse:</b> Compatible</li>
- <li><b>Controller:</b> Incompatible</li>
-</ul>
+Lastly, the <a href="https://ompearetro.com/shop/ols/products/fm2and6-custom-controller-for-fm-towns-and-other-japanese-pcs">FM2AND6</a> controller is also fully compatible with "Temptation", however it must be set to two-button mode.
 
 <h2>Walkthrough</h2>
 While it's suggested that players experience the game for the first time without any outside assistance, those wishing to replay the game and explore all possible scenarios can refer to the <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/misc/walkthrough.pdf">Quick Walkthrough Guide</a>.
