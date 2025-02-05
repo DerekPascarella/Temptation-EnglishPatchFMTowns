@@ -155,7 +155,7 @@ FM Towns Marty players cannot use a controller of any kind with "Temptation". In
 <br><br>
 On non-Marty FM Towns machines, all tested controllers were compatible except for the Marty "FMM-PAD301" (with trigger button) and the six-button "FMT-PAD111". Note that, even if using a non-Marty FM Towns, neither of these two problematic controllers can be present alongside a mouse or keyboard, otherwise ghost input issues be present.
 <br><br>
-Lastly, the <a href="https://ompearetro.com/shop/ols/products/fm2and6-custom-controller-for-fm-towns-and-other-japanese-pcs">FM2AND6</a> controller is also fully compatible with "Temptation" on the FM Towns (not the Marty), however it must be set to two-button mode.
+Lastly, the <a href="https://ompearetro.com/shop/ols/products/fm2and6-custom-controller-for-fm-towns-and-other-japanese-pcs">FM2AND6</a> controller is also fully compatible with "Temptation" on the FM Towns (not the Marty). However, it must be set to two-button mode.
 
 <h2>Walkthrough</h2>
 While it's suggested that players experience the game for the first time without any outside assistance, those wishing to replay the game and explore all possible scenarios can refer to the <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/misc/walkthrough.pdf">Quick Walkthrough Guide</a>.
