@@ -151,11 +151,8 @@ As is not uncommon with the FM Towns/FM Towns Marty, "Temptation" suffers from c
 <br><br>
 All OEM keyboards and mice tested were fully compatible with the game. Furthermore, both the <a href="https://classicpc.org/fmtowns%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%81%b8usb%e3%82%ad%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%89%e3%82%92%e6%8e%a5%e7%b6%9a%e3%81%99%e3%82%8b%e5%a4%89%e6%8f%9b%e6%a9%9f/">USB keyboard</a> and <a href="https://classicpc.org/atari%e3%83%9e%e3%82%a6%e3%82%b9pc%e3%81%b8usb%e3%83%9e%e3%82%a6%e3%82%b9%e3%82%92%e6%8e%a5%e7%b6%9a%e3%81%99%e3%82%8b%e5%a4%89%e6%8f%9b%e6%a9%9f/">USB mouse</a> adapters are fully compatible with both the FM Towns and FM Towns Marty.
 <br><br>
-FM Towns Marty players cannot use a controller of any kind with "Temptation". Instead, a mouse or a keyboard must be used.
+FM Towns Marty players cannot use a controller of any kind with "Temptation". Instead, a mouse or a keyboard must be used. Furthermore, the mere presence of a gamepad breaks input. As a result, only a keyboard or mouse should be plugged in. 
 <br><br>
-On non-Marty FM Towns machines, all tested controllers were compatible except for the Marty "FMM-PAD301" (with trigger button) and the six-button "FMT-PAD111". Note that, even if using a non-Marty FM Towns, neither of these two problematic controllers can be present alongside a mouse or keyboard, otherwise ghost input issues be present.
-<br><br>
-Lastly, the <a href="https://ompearetro.com/shop/ols/products/fm2and6-custom-controller-for-fm-towns-and-other-japanese-pcs">FM2AND6</a> controller is also fully compatible with "Temptation" on the FM Towns (not the Marty). However, it must be set to two-button mode.
-
+On non-Marty FM Towns machines, a controller can be plugged into the computer, but only the keyboard or mouse can be used. The moment the game receives input of any kind from a gamepad, all input breaks.
 <h2>Walkthrough</h2>
 While it's suggested that players experience the game for the first time without any outside assistance, those wishing to replay the game and explore all possible scenarios can refer to the <a href="https://github.com/DerekPascarella/Temptation-EnglishPatchFMTowns/blob/main/misc/walkthrough.pdf">Quick Walkthrough Guide</a>.
